@@ -1,0 +1,3 @@
+[submodule "src/REDBattle"]
+	path = src/REDBattle
+	url = https://github.com/WistfulHopes/REDBattle.git
